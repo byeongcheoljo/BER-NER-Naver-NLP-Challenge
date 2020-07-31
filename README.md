@@ -2,5 +2,5 @@
 
 #### naver NLP Challenge 데이터를 BERT 모델을 구현하고 있습니다.
 
-### DATA
-# https://github.com/naver/nlp-challenge
+### DATA  
+https://github.com/naver/nlp-challenge  
